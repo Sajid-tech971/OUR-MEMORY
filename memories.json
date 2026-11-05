@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "date": "2026-02-15",
+    "date": "2026-11-07",
     "title": {
-      "en": "Annual Sports Day 2026",
-      "bn": "বার্ষিক ক্রীড়া প্রতিযোগিতা ২০২৬"
+      "en": "Picnic Festival",
+      "bn": "চড়ুইভাতী উৎসব"
     },
     "description": {
-      "en": "Unforgettable moments and exciting victories during our annual school sports day.",
-      "bn": "আমাদের বার্ষিক ক্রীড়া প্রতিযোগিতার কিছু স্মরণীয় মুহূর্ত এবং জয়ের আনন্দ।"
+      "en": "Our school picnic was filled with joy and excitement. The spontaneous participation of both teachers and students turned the day into a wonderful gathering—an experience that will remain etched in our hearts forever.",
+      "bn": "আমাদের স্কুলের চড়ুইভাতী উৎসবটি ছিল আনন্দ ও উল্লাসে ভরপুর। শিক্ষক ও শিক্ষার্থীদের স্বতঃস্ফূর্ত অংশগ্রহণে দিনটি এক অপূর্ব মিলনমেলায় পরিণত হয়েছিল, যা আমাদের হৃদয়ে চিরস্মরণীয় হয়ে থাকবে।"
     },
     "media": [
       {
@@ -20,23 +20,5 @@
         "url": "media/picnic2.jpg"
       }
     ]
-  },
-  {
-    "id": 2,
-    "date": "2025-11-20",
-    "title": {
-      "en": "Annual Cultural Fest & Picnic",
-      "bn": "বার্ষিক সাংস্কৃতিক অনুষ্ঠান ও পিকনিক"
-    },
-    "description": {
-      "en": "A vibrant day packed with music, performances, and great memories spent together with friends.",
-      "bn": "গান, নাটক এবং বন্ধুদের সাথে কাটানো দুর্দান্ত কিছু মুহূর্ত নিয়ে আমাদের বর্ণাঢ্য পিকনিক দিন।"
-    },
-    "media": [
-      {
-        "type": "image",
-        "url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80"
-      }
-    ]
   }
-]
+ ]
