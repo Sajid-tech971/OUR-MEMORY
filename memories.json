@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "date": "2026-02-15",
+    "title": {
+      "en": "Annual Sports Day 2026",
+      "bn": "বার্ষিক ক্রীড়া প্রতিযোগিতা ২০২৬"
+    },
+    "description": {
+      "en": "Unforgettable moments and exciting victories during our annual school sports day.",
+      "bn": "আমাদের বার্ষিক ক্রীড়া প্রতিযোগিতার কিছু স্মরণীয় মুহূর্ত এবং জয়ের আনন্দ।"
+    },
+    "media": [
+      {
+        "type": "image",
+        "url": "media/picnic1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2025-11-20",
+    "title": {
+      "en": "Annual Cultural Fest & Picnic",
+      "bn": "বার্ষিক সাংস্কৃতিক অনুষ্ঠান ও পিকনিক"
+    },
+    "description": {
+      "en": "A vibrant day packed with music, performances, and great memories spent together with friends.",
+      "bn": "গান, নাটক এবং বন্ধুদের সাথে কাটানো দুর্দান্ত কিছু মুহূর্ত নিয়ে আমাদের বর্ণাঢ্য পিকনিক দিন।"
+    },
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  }
+]
