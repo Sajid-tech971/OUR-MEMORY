@@ -1,0 +1,41 @@
+name: Deploy Static Content to GitHub Pages
+
+on:
+  push:
+    branches: ["main"] # আপনার গিটহাব ব্রাঞ্চ যদি master হয়, তবে "main"-এর বদলে "master" লিখে দেবেন
+
+  # Actions ট্যাব থেকে ম্যানুয়ালি রান করার অপশন রাখার জন্য
+  workflow_dispatch:
+
+# গিটহাব পেজেসে ফাইল রিড ও রাইট করার পারমিশন
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# একসাথে একাধিক ডিপ্লয়মেন্ট কনফ্লিক্ট এড়ানোর জন্য কনকারেন্সি সেটআপ
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.' # বর্তমান রুট ফোল্ডারের সব ফাইল আপলোড করবে
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
