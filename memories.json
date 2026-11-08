@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "date": "2026-11-05",
+    "date": "2026-11-07",
     "title": {
       "en": "Pre-Picnic Vibrance: A Joyful Mehendi Celebration at School!",
       "bn": "চড়ুইভাতির পূর্বপ্রস্তুতি: আনন্দ ও উল্লাসে ভরা এক মেহেদি উৎসব!"
@@ -110,10 +110,144 @@
       {
         "type": "image",
         "url": "media/mehedi25.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2026-12-16",
+    "title": {
+      "en": "A Day of Joy & Melody: School Annual Picnic and Cultural Evening 2026!",
+      "bn": "আনন্দ ও সুরের এক অনন্য দিন: স্কুল বার্ষিক চড়ুইভাতি ও সাংস্কৃতিক সন্ধ্যা ২০২৬!"
+    },
+    "description": {
+      "en": "Our school premises turned into a vibrant hub of joy and celebration for our annual picnic and cultural evening! The day was packed with delicious food for all the students, exciting gift distributions, and enthusiastic performances by the students including songs and dances. As evening fell at 6:00 PM, the grand cultural segment began with special guest performances, featuring the prominent artist Advocate Rokonuzzaman as the main attraction, special artist Abdul Momin, and a brilliant drama troupe including Nurul Islam Uzzal, Azad, Jilhaz, and their team. It was a magical day full of unforgettable memories!",
+      "bn": "আমাদের স্কুল প্রাঙ্গণ যেন এক দিনেই আনন্দ, উল্লাস আর উৎসবের এক টুকরো কাননে পরিণত হয়েছিল! চড়ুইভাতি উপলক্ষে সারা দিনব্যাপী স্টুডেন্টদের জন্য সুস্বাদু খাবার-দাবারের সুব্যবস্থা, আকর্ষণীয় উপহার বিতরণ এবং শিক্ষার্থীদের স্বতঃস্ফূর্ত অংশগ্রহণে গান, নাচ ও নানা পরিবেশনায় মুখরিত ছিল পুরো প্রাঙ্গণ। এরপর সন্ধ্যা ৬টা থেকে শুরু হয় মূল আকর্ষণ—বিশেষ শিল্পীদের পরিবেশনা। এই মনোজ্ঞ সাংস্কৃতিক সন্ধ্যায় প্রধান আকর্ষণ হিসেবে উপস্থিত ছিলেন বিশিষ্ট শিল্পী অ্যাডভোকেট রোকনুজ্জামান , বিশেষ আকর্ষণ ছিলেন শিল্পী আব্দুল মোমিন (Abdul Momin), এবং মঞ্চ মাতিয়েছিলেন নাট্যশিল্পী নুরুল ইসলাম উজ্জ্বল, আজাদ, জিলহজ ও তাদের পুরো নাট্যদল। হাসি-আনন্দ আর সুরের মূর্ছনায় মোড়ানো এই দিনটি আমাদের হৃদয়ে চিরস্মরণীয় হয়ে থাকবে!"
+    },
+    "media": [
+      {
+        "type": "image",
+        "url": "media/picnic27.jpeg"
       },
       {
         "type": "image",
-        "url": "media/mehedi26.jpeg"
+        "url": "media/picnic28.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic29.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic30.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic31.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic32.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic33.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic34.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic35.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic36.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic37.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic38.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic39.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic40.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic41.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic42.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic43.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic44.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic45.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic46.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic47.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic48.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic49.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic50.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic51.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic52.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic53.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic54.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic55.jpeg"
+      },
+      {
+        "type": "image",
+        "url": "media/picnic56.jpeg"
+      },
+      {
+        "type": "video",
+        "url": "media/picnic57.jpeg"
       }
     ]
   }
