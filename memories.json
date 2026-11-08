@@ -187,11 +187,11 @@
       },
       {
         "type": "image",
-        "url": "media/picnic42.jpeg"
+        "url": "https://drive.google.com/file/d/12dKpUApPsW89ZIQvRiLmefJrCTMtVLwt/view?usp=drive_link"
       },
       {
-        "type": "image",
-        "url": "media/picnic43.jpeg"
+        "type": "video",
+        "url": "https://drive.google.com/file/d/16ki7CA863w4o31pPGXoDaNvFdDEwU9Is/view?usp=drive_link"
       },
       {
         "type": "image",
@@ -243,11 +243,11 @@
       },
       {
         "type": "image",
-        "url": "https://drive.google.com/file/d/16ki7CA863w4o31pPGXoDaNvFdDEwU9Is/view?usp=sharing"
+        "url": ""
       },
       {
         "type": "video",
-        "url": "https://drive.google.com/file/d/12dKpUApPsW89ZIQvRiLmefJrCTMtVLwt/view?usp=sharing"
+        "url": ""
       }
     ]
   }
